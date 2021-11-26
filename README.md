@@ -1,0 +1,2 @@
+# BurntCakeContract
+BurntCake Solidity Contract
